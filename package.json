@@ -1,0 +1,23 @@
+{
+  "name": "watchtubers",
+  "version": "1.0.0",
+  "description": "It is an Full-fledged Production Grade Application usin MERN Stack. In this we are creating a new Youtube which has multiple functionalities. And we will learn more about how application is created for Production use, What libraries are used, etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "WatchTubers",
+    "Youtube",
+    "MERN",
+    "Stack",
+    "Chai",
+    "aur",
+    "Code",
+    "Hitesh",
+    "Chodhary",
+    "Videos"
+  ],
+  "author": "Pulkit Porwal",
+  "license": "ISC"
+}
