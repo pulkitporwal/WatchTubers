@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "It is an Full-fledged Production Grade Application usin MERN Stack. In this we are creating a new Youtube which has multiple functionalities. And we will learn more about how application is created for Production use, What libraries are used, etc.",
   "main": "index.js",
+  "type":"module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon ./src/index.js"
@@ -24,5 +25,10 @@
   "devDependencies": {
     "nodemon": "^3.0.1",
     "prettier": "^3.0.3"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^8.0.0"
   }
 }
